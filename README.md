@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0412-fizz-buzz) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1927-sum-game) |
+## Array
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
