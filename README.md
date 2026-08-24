@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1927-sum-game) |
 ## Simulation
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
