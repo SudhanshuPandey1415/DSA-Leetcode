@@ -89,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
