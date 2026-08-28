@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,9 +114,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
