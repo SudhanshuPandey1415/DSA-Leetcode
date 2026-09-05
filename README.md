@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
