@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0056-merge-intervals) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
