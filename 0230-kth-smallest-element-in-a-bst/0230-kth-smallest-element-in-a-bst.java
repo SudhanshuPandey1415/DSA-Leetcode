@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        Stack<TreeNode> stack = new Stack<>();
+        Deque<TreeNode> stack = new ArrayDeque<>();
 
         while (root != null || !stack.isEmpty()) {
             while (root != null) {
@@ -12,9 +12,7 @@ class Solution {
 
             root = stack.pop();
 
-            if (--k == 0) {
-                return root.val;
-            }
+            if (--k == 0) return root.val;
 
             root = root.right;
         }
