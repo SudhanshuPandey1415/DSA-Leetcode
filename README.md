@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0733-flood-fill) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
