@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
