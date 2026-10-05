@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## DP on Trees
 |  |
 | ------- |
