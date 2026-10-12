@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [1927-sum-game](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0463-island-perimeter) |
+| [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
