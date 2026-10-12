@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0463-island-perimeter) |
+| [0560-subarray-sum-equals-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0733-flood-fill) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
