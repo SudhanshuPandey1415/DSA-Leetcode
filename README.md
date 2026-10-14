@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0392-is-subsequence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0198-house-robber) |
