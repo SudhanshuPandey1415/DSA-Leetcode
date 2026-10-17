@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1927-sum-game](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SudhanshuPandey1415/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Tree
 |  |
